@@ -115,10 +115,6 @@
           }
         ]
       }
-      {
-        'match': '[^\\s\\}]'
-        'name': 'invalid.illegal.expected-dictionary-separator.hcl'
-      }
     ]
 
   'comment':
